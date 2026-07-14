@@ -15,7 +15,7 @@ DELETE http://localhost:3001/api/persons/1
 
 ###
 
-POST http://localhost:3001/api/persons
+POST https://phonebook-im0j.onrender.com/api/persons
 Content-Type: application/json
 
 {
